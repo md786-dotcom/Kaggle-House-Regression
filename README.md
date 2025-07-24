@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Competition-20BEFF.svg)](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kaggle-house-regression.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kaggle-house-regression-lmt7fphzvhzj7t7zcqvtqy.streamlit.app/)
 
 ## 🏆 Competition Performance
 
@@ -11,7 +11,7 @@
 
 A comprehensive machine learning solution for predicting house prices using advanced regression techniques, feature engineering, and ensemble methods.
 
-🚀 **[Live Demo on Streamlit](https://kaggle-house-regression.streamlit.app)** - Interactive demonstration of the techniques and models used
+🚀 **[Live Demo on Streamlit](https://kaggle-house-regression-lmt7fphzvhzj7t7zcqvtqy.streamlit.app/)** - Interactive demonstration of the techniques and models used
 
 ## 📊 Project Overview
 
