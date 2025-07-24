@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__desktop-commander__interact_with_process",
+      "Bash(python3:*)"
+    ],
+    "deny": []
+  }
+}
