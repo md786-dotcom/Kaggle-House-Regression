@@ -36,6 +36,8 @@ build/
 .ipynb_checkpoints
 *.ipynb
 !exploratory_analysis.ipynb
+kaggle_notebook.py
+house_prices_kaggle_notebook.ipynb
 
 # IDE
 .vscode/
