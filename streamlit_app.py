@@ -441,7 +441,7 @@ else:  # Interactive Demo
     
     col1, col2, col3 = st.columns([1, 2, 1])
     with col2:
-        st.markdown("""
+        st.markdown(f"""
         <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); 
                     padding: 30px; border-radius: 15px; text-align: center;
                     box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
