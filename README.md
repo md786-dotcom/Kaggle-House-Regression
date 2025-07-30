@@ -9,7 +9,7 @@
 
 **Current Ranking: 519 / 4,677** (Top 11.1%) as of July 24, 2025, 4:30 PM AEST
 
-A comprehensive machine learning solution for predicting house prices using advanced regression techniques, feature engineering, and ensemble methods.
+A comprehensive solution for predicting house prices using advanced regression techniques, feature engineering, and ensemble methods.
 
 🚀 **[Live Demo on Streamlit](https://kaggle-house-regression-lmt7fphzvhzj7t7zcqvtqy.streamlit.app/)** - Interactive demonstration of the techniques and models used
 
